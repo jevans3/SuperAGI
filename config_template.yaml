@@ -2,7 +2,7 @@
 PINECONE_API_KEY: YOUR_PINECONE_API_KEY
 PINECONE_ENVIRONMENT: YOUR_PINECONE_ENVIRONMENT
 
-OPENAI_API_KEY: YOUR_OPEN_API_KEY
+OPENAI_API_KEY: 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
 
 # For locally hosted LLMs comment out the next line and uncomment the one after
 # to configure a local llm point your browser to 127.0.0.1:7860 and click on the model tab in text generation web ui.
